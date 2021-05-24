@@ -123,7 +123,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*************************"
-  ui_print "   Intense Night Light   "
+  ui_print " Custom Display Settings "
   ui_print "*************************"
 }
 
